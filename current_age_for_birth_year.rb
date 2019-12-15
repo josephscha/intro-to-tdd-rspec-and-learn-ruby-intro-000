@@ -3,4 +3,4 @@ def current_age_for_birth_year(x)
   puts age_of_person
 end
 
-current_age_for_birth_year(1984)
+current_age_for_birth_year(2000)
