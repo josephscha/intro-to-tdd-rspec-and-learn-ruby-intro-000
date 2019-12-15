@@ -3,7 +3,7 @@
 #   puts age_of_person
 # end
 
-# current_age_for_birth_year(2000)
+# current_age_for_birth_year(1984)
 
 #Current year 2019. 1984 returns 35
 def current_age_for_birth_year(x)
